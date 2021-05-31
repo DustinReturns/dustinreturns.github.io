@@ -1,6 +1,6 @@
 baseURL = "https://dustinreturns.github.io/"
 title = "Elias Praktikumsbericht"
-author = "Elias Gauger"
+author = "Elias G."
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
