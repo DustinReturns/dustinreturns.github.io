@@ -5,3 +5,4 @@ date: "2021-06-09"
 ---
 
 Heute habe ich mich weiterhin mit Lektionen vom gestrigen Tag beschäftigt.
+https://superluminar-io.github.io/serverless-workshop/#/testing
