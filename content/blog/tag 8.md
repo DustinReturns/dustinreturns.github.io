@@ -1,7 +1,7 @@
 ---
-title: "Tag 5"
+title: "Tag 8"
 author: "Elias Gauger"
-date: "2021-06-04"
+date: "2021-06-10"
 ---
 
-Heute hab ich die restlichen wichtigen Lua Lektionen abgeschlossen.
+...
